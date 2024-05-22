@@ -47,7 +47,7 @@ const Headers = ({ titles, currentTab, selectTab }) => {
 
 //     return (
 //       <section className="tabs-section">
-//         <h1>Tabs</h1>
+        // <h1>Tabs</h1>
 //         <div className='tabs'>
 //           <Headers
 //             titles={titles}
